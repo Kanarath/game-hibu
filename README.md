@@ -1,24 +1,74 @@
-# Game Haibu
-VUE CodeOp Team Project
+# Game Hibu
 
-In this project you will be recommended a free-to-play game based on your prefernces.
+![Game Hibu Banner](public/buttons/game_hibu_alpha.png "Game Hibu")
 
-## Objectius
+Game Hibu is an engaging and dynamic team project designed to showcase our potential skills. This project showcases a blend of creativity, innovative design, and robust functionality connecting an API with a Frontend developed to show Free to Play Games.
 
- - Fer servir Vue Router per a separar parts lògiques i donar-lis una estructura de rutes.
- - Utilitzar els components `<RouterView>` i `<RouterLink>` per a fer servir el router.
- - Fer servir el router programàticament
- - Generar pàgines amb rutes i sub-rutes
- - Utilitzar el _lifecicle hook_ `mounted`.
- - Utilitzar `watchers` per a carregar noves dades en una mateixa vista.
- - Fer servir _URL params_ i _query params_.
- - Fer servir _axios_ com a alternativa a _fetch_.
- - Fer servir `Promise.all()` per a treballar amb llistes de promeses.
+We deployed the App on Vercel so you can check it here:
+<https://game-haibu.vercel.app/>
 
-## Configuració
+## 🚀 Features
 
-- Executa `npm install` per instal·lar els paquets (packages).
-- Executa `npm run dev` per executar el servidor de desenvolupament.
+- **UI/UX**: [Navigation like inside a Videogame's Menu.]
+- **Custom Artwork**: [Custom 3D logo and buttons, palette and design.]
+- **Dynamic Mechanics**: [Explore a big videogame database and it's details like if you were in a videogame menu.]
+- **Multiplatform Compatibility**: [Desktop, tablet and mobile.]
+
+## 🛠️ Technologies Used
+
+- **Languages**: [HTML, Tailwind CSS.]
+- **Frameworks**: [Vue.js with Vite and Pinia.]
+- **Tools**: [VSCode, Photoshop, Blender, Figma.]
+- **Version Control**: [Git, GitHub.]
+
+## 📂 Project Structure
+
+```
+Game-Hibu/
+├── assets/            # App assets like images, etc.
+├── src/               # Source code.
+│   ├── components/    # Reusable UI components.
+├── public/            # Resourses stored to show.
+│   ├── buttons/       # Images of some assets.
+└── README.md          # Project overview.
+```
+
+## 🎮 How to Use:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kanarath/Game-Hibu.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Game-Hibu
+   ```
+3. Install dependencies:
+   ```bash
+   npm install  # or the relevant command for your tech stack
+   ```
+4. Run the Web App:
+   ```bash
+   npm start  # or the relevant command for your tech stack
+   ```
+
+
+## 📞 Contact
+
+For any inquiries or collaboration opportunities, please reach out:
+
+- **Email**: [gerard.montero.s@example.com](mailto:gerard.montero.s@example.com)
+- **LinkedIn**: [Gerard Montero Sellares](https://www.linkedin.com/in/gerard-montero-sellares-3005499a/)
+- **Portfolio**: [Gerard Montero Sellares](https://www.gerardms.com)
+
+---
+
+_This project is part of my portfolio. If you like it, feel free to give it a ⭐ on [GitHub](https://github.com/yourusername/Game-Hibu)!_
+
+---
+
+![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/Game-Hibu?style=social) ![GitHub Forks](https://img.shields.io/github/forks/yourusername/Game-Hibu?style=social)
+
 
 
 _Este es un proyecto de estudiante creado en [CodeOp](http://codeop.tech), un bootcamp de desarrollo front-end en Barcelona._
