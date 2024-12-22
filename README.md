@@ -12,12 +12,12 @@ We deployed the App on Vercel so you can check it here:
 - **UI/UX**: [Navigation like inside a Videogame's Menu.]
 - **Custom Artwork**: [Custom 3D logo and buttons, palette and design.]
 - **Dynamic Mechanics**: [Explore a big videogame database and it's details like if you were in a videogame menu.]
-- **Multiplatform Compatibility**: [Desktop, tablet and mobile.]
+- **Multiplatform Compatibility**: [Desktop, tablet and mobile. All Responsive.]
 
 ## 🛠️ Technologies Used
 
-- **Languages**: [HTML, Tailwind CSS.]
-- **Frameworks**: [Vue.js with Vite and Pinia.]
+- **Languages**: [HTML, CSS, JavaScript.]
+- **Frameworks / Libraries**: [Vue.js, Vite, Tailwind CSS, Pinia.]
 - **Tools**: [VSCode, Photoshop, Blender, Figma.]
 - **Version Control**: [Git, GitHub.]
 
@@ -57,7 +57,7 @@ Game-Hibu/
 
 For any inquiries or collaboration opportunities, please reach out:
 
-- **Email**: [gerard.montero.s@example.com](mailto:gerard.montero.s@example.com)
+- **Email**: [gerard.montero.s@example.com](mailto:gerard.montero.s@gmail.com.com)
 - **LinkedIn**: [Gerard Montero Sellares](https://www.linkedin.com/in/gerard-montero-sellares-3005499a/)
 - **Portfolio**: [Gerard Montero Sellares](https://www.gerardms.com)
 
