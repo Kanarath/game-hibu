@@ -63,11 +63,11 @@ For any inquiries or collaboration opportunities, please reach out:
 
 ---
 
-_This project is part of my portfolio. If you like it, feel free to give it a ⭐ on [GitHub](https://github.com/yourusername/Game-Hibu)!_
+_This project is part of my portfolio. If you like it, feel free to give it a ⭐ on [GitHub](https://github.com/Kanarath/Game-Hibu)!_
 
 ---
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/Game-Hibu?style=social) ![GitHub Forks](https://img.shields.io/github/forks/yourusername/Game-Hibu?style=social)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Kanarath/Game-Hibu?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Kanarath/Game-Hibu?style=social)
 
 
 
