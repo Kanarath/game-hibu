@@ -57,7 +57,7 @@ Game-Hibu/
 
 For any inquiries or collaboration opportunities, please reach out:
 
-- **Email**: [gerard.montero.s@example.com](mailto:gerard.montero.s@gmail.com.com)
+- **Email**: [gerard.montero.s@gmail.com.com](mailto:gerard.montero.s@gmail.com.com)
 - **LinkedIn**: [Gerard Montero Sellares](https://www.linkedin.com/in/gerard-montero-sellares-3005499a/)
 - **Portfolio**: [Gerard Montero Sellares](https://www.gerardms.com)
 
